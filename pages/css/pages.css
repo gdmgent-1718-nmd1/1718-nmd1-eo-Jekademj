@@ -20,7 +20,12 @@ img {
     background-color: blueviolet;
     font-size: 25px;
 }
+#mijnText{
+    background-color: #b05bd7;
+    background-color: hsla(281%,61%,60%,1);
+    
 
+}
 
 
 /* Voeg jouw css hieraan toe */
